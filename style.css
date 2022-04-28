@@ -1,0 +1,50 @@
+body {
+	background: #ccc;
+	padding: 5px;
+	font-family: verdana;
+	font-size: 12;
+}
+#title. subtitle.{
+	color: #red;
+	font-size: 15px;
+	text-decoration: underline;	
+} 
+#title{
+	font-weight: bold;
+	text-align: center;
+}
+.subtitle {
+	font-weight: bold;
+	text-align: center;
+}
+.post-title {
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	padding-bottom: 10px;
+}
+.post {
+	background: #fff;
+	padding: 10px;
+	border: 3px solid #000;
+	margin: 3px;
+	border-radius: 10px;
+}
+a {
+	text-decoration: line-through;
+	font-style: italic;
+	color: #red;
+}
+.contact-list {
+	list-style-type: none;
+	color: red;
+	padding: 0px;
+	text-align: center;
+}
+.post-content {
+	text-align: center;
+}
+.contact-list li a {
+	text-decoration: none;
+}
